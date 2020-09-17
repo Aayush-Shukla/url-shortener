@@ -1,6 +1,8 @@
 # url-shortener
 
-## Made with Express.js and MongoDB
+## URL Shortener made with Express.js and MongoDB
+
+
 
 ```npm install```
 
